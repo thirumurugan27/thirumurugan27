@@ -1,15 +1,13 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 🎨 CUSTOM ANIMATED HEADER BANNER                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img src="./assets/header-banner.svg" width="100%" alt="Thirumurugan K — Header Banner" />
+<!-- CUSTOM ANIMATED HEADER BANNER (pure SMIL — renders on GitHub) -->
+<img src="./assets/header-banner.svg" width="100%" alt="Thirumurugan K" />
 
 <br/>
 
-<!-- ANIMATED TYPING HEADER -->
+<!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hey+there%2C+I'm+Thirumurugan+K+%F0%9F%91%8B;Full-Stack+Engineer+%7C+DSA+Enthusiast+%7C+Builder;Turning+caffeine+into+scalable+clean+code+%E2%98%95;Open+to+SDE+%26+SWE+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Thirumurugan+K+%F0%9F%91%8B;Full-Stack+Engineer+%7C+DSA+Enthusiast;B.Tech+AIML+%E2%80%94+Class+of+2028;Turning+caffeine+into+scalable+code+%E2%98%95;Open+to+SDE+%26+SWE+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -35,50 +33,45 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="./assets/divider.svg" width="100%" />
-<!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
 
 ```javascript
 const thirumurugan = {
-  pronouns: "he/him",
-  role: "Software Engineering Student & Full-Stack Builder",
-  degree: "B.Tech AIML — Class of 2028 🎓",
-  cgpa: "8.66 / 10",
-  code: ["Java", "JavaScript", "Python", "C++", "C"],
-  stack: ["React", "React Native", "Node.js", "Express", "MySQL", "AWS"],
+  role:         "Software Engineering Student & Full-Stack Builder",
+  degree:       "B.Tech AIML — Class of 2028 🎓",
+  cgpa:         "8.66 / 10",
+  code:         ["Java", "JavaScript", "Python", "C++", "C"],
+  stack:        ["React", "React Native", "Node.js", "Express", "MySQL", "AWS"],
   currentQuest: "Grinding DSA & shipping high-performance full-stack apps",
-  superpower: "Converting coffee into clean code and zero-warning builds ☕",
-  philosophy: "If it ain't broken, refactor it until it is, then fix it properly 🛠️"
+  superpower:   "Converting coffee into clean code ☕",
+  philosophy:   "If it ain't broken, refactor it, then fix it properly 🛠️"
 };
 ```
 
-I'm an AIML undergraduate passionate about engineering scalable, high-performance systems and conquering hard algorithmic problems. From crafting reactive web & mobile interfaces with **React & React Native** to designing resilient backends with **Node.js/Express** backed by **MySQL**, I enjoy turning complex challenges into clean, elegant code.
+I'm an AIML undergraduate passionate about building scalable, high-performance systems and conquering hard algorithmic problems. From crafting reactive interfaces with **React & React Native** to designing resilient backends with **Node.js/Express** and **MySQL** — I turn complex challenges into elegant code.
 
 - 🎯 **Target:** SDE / Software Engineering roles at product-driven tech companies
 - 💬 **Ask me about:** Data Structures & Algorithms, React, Node.js, System Architecture
-- ⚡ **Fun Fact:** I'd rather stay up hunting down a race condition at 2 AM than wake up to unresolved bugs
+- ⚡ **Fun Fact:** I'd rather stay up hunting a race condition at 2 AM than wake up to unresolved bugs
 
 <br/>
 
-<!-- ANIMATED TERMINAL -->
+<!-- ANIMATED TERMINAL (pure SMIL — renders on GitHub) -->
 <div align="center">
-  <img src="./assets/terminal.svg" width="95%" alt="Dev Terminal" />
+  <img src="./assets/terminal.svg" width="96%" alt="Dev Terminal" />
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="./assets/divider.svg" width="100%" />
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-<!-- ANIMATED MARQUEE -->
+<!-- ANIMATED MARQUEE (pure SMIL — renders on GitHub) -->
 <img src="./assets/techstack-marquee.svg" width="100%" alt="Tech Stack Marquee" />
 
 <br/><br/>
@@ -92,47 +85,30 @@ I'm an AIML undergraduate passionate about engineering scalable, high-performanc
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Frontend" />
 </p>
-<sub><i>React powers both my <b>Web</b> and <b>React Native</b> mobile development.</i></sub>
+<sub><i>React powers both <b>Web</b> and <b>React Native</b> mobile development.</i></sub>
 
 <br/>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Backend and Database" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Backend" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,figma" alt="DevOps and Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,figma" alt="Tools" />
 </p>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="./assets/divider.svg" width="100%" />
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thirumurugan27&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img src="./assets/divider.svg" width="100%" />
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Stream
 
 <div align="center">
 
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thirumurugan27/thirumurugan27/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thirumurugan27/thirumurugan27/output/github-contribution-grid-snake.svg" />
@@ -143,7 +119,7 @@ I'm an AIML undergraduate passionate about engineering scalable, high-performanc
 
 <br/><br/>
 
-<!-- 3D Contribution Graph -->
+<!-- 3D Contribution Graph — generated by GitHub Action on first run -->
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
 
 <sub><i>Isometric 3D contribution graph — auto-generated daily ✨</i></sub>
@@ -152,66 +128,58 @@ I'm an AIML undergraduate passionate about engineering scalable, high-performanc
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="./assets/divider.svg" width="100%" />
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=thirumurugan27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=thirumurugan27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" alt="GitHub Stats" />
 &nbsp;
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thirumurugan27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
+<img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thirumurugan27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=thirumurugan27&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=thirumurugan27&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8&dates=8b949e" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumurugan27&bg_color=0d1117&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=1a1b27&title_color=38bdf8&hide_border=true" width="95%" alt="Activity Graph" />
+<!-- Activity Graph — uses vercel deployment, no theme param needed for reliability -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumurugan27&bg_color=0d1117&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=1e1b4b&title_color=38bdf8&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Activity Graph" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="./assets/divider.svg" width="100%" />
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🧩 Problem Solving & Competitive Coding
 
 <div align="center">
 
 <a href="https://leetcode.com/thirumurugan007" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/thirumurugan007?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Card" width="520" />
+  <img src="https://leetcard.jacoblin.cool/thirumurugan007?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats" width="500" />
 </a>
 
-<p><sub>⚡ Live stats fetched directly from LeetCode — daily streak & problem milestones.</sub></p>
+<p><sub>⚡ Live LeetCode stats — daily streak & problem milestones</sub></p>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="./assets/divider.svg" width="100%" />
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 💭 Dev Quote of the Day
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="./assets/divider.svg" width="100%" />
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🎓 Education
 
@@ -219,23 +187,21 @@ I'm an AIML undergraduate passionate about engineering scalable, high-performanc
 
 ```
 🏛️  B.Tech in Artificial Intelligence & Machine Learning
-📅  Expected Graduation: 2028
-🎯  Academic Standing: CGPA 8.66 / 10
+📅  Expected Graduation : 2028
+🎯  Academic Standing  : CGPA 8.66 / 10
 ```
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="./assets/divider.svg" width="100%" />
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
 
-<p>Whether it's discussing an innovative tech project, an open SDE role, or just geeking out over algorithms — my inbox is always open!</p>
+<p>Whether it's discussing an innovative project, an open SDE role, or just geeking out over algorithms — my inbox is always open!</p>
 
 <a href="https://www.linkedin.com/in/thirumurugan007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/thirumurugan27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -247,12 +213,11 @@ I'm an AIML undergraduate passionate about engineering scalable, high-performanc
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=484f58&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by!+%F0%9F%9A%80;May+your+code+compile+on+the+first+try+%E2%9C%A8;Let's+build+something+legendary+together+%F0%9F%92%BB;Star+%E2%AD%90+my+repos+if+you+find+them+useful!" alt="Typing SVG Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=484f58&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%9A%80;May+your+code+compile+on+the+first+try+%E2%9C%A8;Let's+build+something+legendary+%F0%9F%92%BB;Star+%E2%AD%90+a+repo+if+you+find+it+useful!" alt="Footer Typing" />
 </a>
 
 <br/>
 
-<!-- ANIMATED FOOTER -->
 <img src="./assets/footer.svg" width="100%" alt="Footer" />
 
 </div>
