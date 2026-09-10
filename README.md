@@ -12,13 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hey+there%2C+I'm+Thirumurugan+K+%F0%9F%91%8B;Full-Stack+Engineer+%7C+DSA+Enthusiast+%7C+Builder;Turning+caffeine+into+scalable+clean+code+%E2%98%95;Open+to+SDE+%26+SWE+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=thirumurugan27&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/thirumurugan27?label=Followers&style=for-the-badge&color=38bdf8&labelColor=0d1117" alt="Followers" />
-
 <br/><br/>
 
 <!-- SOCIAL BADGES -->
@@ -167,18 +160,18 @@ I'm an AIML undergraduate passionate about engineering scalable, high-performanc
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thirumurugan27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=thirumurugan27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" alt="GitHub Stats" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumurugan27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thirumurugan27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thirumurugan27&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=thirumurugan27&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8" alt="GitHub Streak" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumurugan27&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=38bdf8" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumurugan27&bg_color=0d1117&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=1a1b27&title_color=38bdf8&hide_border=true" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -211,22 +204,6 @@ I'm an AIML undergraduate passionate about engineering scalable, high-performanc
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img src="./assets/divider.svg" width="100%" />
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🎭 Developer Humor
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Developer Joke of the Day" />
-
-<p><sub><i>Refreshes with a new programmer joke on every reload — laughter guaranteed (or 0 bugs returned).</i></sub></p>
 
 </div>
 
