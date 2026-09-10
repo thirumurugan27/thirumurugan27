@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+  <defs>
+    <linearGradient id="mbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#0d1117" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#0d1117" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <!-- Fade edges -->
+    <linearGradient id="fade-l" x1="0%" y1="0%" x2="8%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade-r" x1="92%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Row 1: Scrolling LEFT (languages + frontend) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="-776,0" dur="22s" repeatCount="indefinite"/>
+
+    <!-- Set 1 -->
+    <g transform="translate(0, 12)">
+      <rect x="0" width="82" height="32" rx="16" fill="#ED8B00" fill-opacity="0.12" stroke="#ED8B00" stroke-width="1.2"/>
+      <text x="41" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#ED8B00">Java</text>
+
+      <rect x="97" width="82" height="32" rx="16" fill="#3776AB" fill-opacity="0.12" stroke="#3776AB" stroke-width="1.2"/>
+      <text x="138" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#3776AB">Python</text>
+
+      <rect x="194" width="82" height="32" rx="16" fill="#00599C" fill-opacity="0.12" stroke="#00599C" stroke-width="1.2"/>
+      <text x="235" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#7EB8DA">C++</text>
+
+      <rect x="291" width="94" height="32" rx="16" fill="#F7DF1E" fill-opacity="0.10" stroke="#F7DF1E" stroke-width="1.2"/>
+      <text x="338" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#F7DF1E">JavaScript</text>
+
+      <rect x="400" width="82" height="32" rx="16" fill="#61DAFB" fill-opacity="0.12" stroke="#61DAFB" stroke-width="1.2"/>
+      <text x="441" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#61DAFB">React</text>
+
+      <rect x="497" width="106" height="32" rx="16" fill="#61DAFB" fill-opacity="0.08" stroke="#61DAFB" stroke-width="1.2" stroke-dasharray="4 2"/>
+      <text x="550" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#61DAFB">React Native</text>
+
+      <rect x="618" width="82" height="32" rx="16" fill="#06B6D4" fill-opacity="0.12" stroke="#06B6D4" stroke-width="1.2"/>
+      <text x="659" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#06B6D4">Tailwind</text>
+
+      <rect x="715" width="60" height="32" rx="16" fill="#E34F26" fill-opacity="0.12" stroke="#E34F26" stroke-width="1.2"/>
+      <text x="745" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#E34F26">HTML</text>
+    </g>
+
+    <!-- Set 2 (duplicate for seamless loop) -->
+    <g transform="translate(776, 12)">
+      <rect x="0" width="82" height="32" rx="16" fill="#ED8B00" fill-opacity="0.12" stroke="#ED8B00" stroke-width="1.2"/>
+      <text x="41" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#ED8B00">Java</text>
+
+      <rect x="97" width="82" height="32" rx="16" fill="#3776AB" fill-opacity="0.12" stroke="#3776AB" stroke-width="1.2"/>
+      <text x="138" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#3776AB">Python</text>
+
+      <rect x="194" width="82" height="32" rx="16" fill="#00599C" fill-opacity="0.12" stroke="#00599C" stroke-width="1.2"/>
+      <text x="235" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#7EB8DA">C++</text>
+
+      <rect x="291" width="94" height="32" rx="16" fill="#F7DF1E" fill-opacity="0.10" stroke="#F7DF1E" stroke-width="1.2"/>
+      <text x="338" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#F7DF1E">JavaScript</text>
+
+      <rect x="400" width="82" height="32" rx="16" fill="#61DAFB" fill-opacity="0.12" stroke="#61DAFB" stroke-width="1.2"/>
+      <text x="441" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#61DAFB">React</text>
+
+      <rect x="497" width="106" height="32" rx="16" fill="#61DAFB" fill-opacity="0.08" stroke="#61DAFB" stroke-width="1.2" stroke-dasharray="4 2"/>
+      <text x="550" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#61DAFB">React Native</text>
+
+      <rect x="618" width="82" height="32" rx="16" fill="#06B6D4" fill-opacity="0.12" stroke="#06B6D4" stroke-width="1.2"/>
+      <text x="659" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#06B6D4">Tailwind</text>
+
+      <rect x="715" width="60" height="32" rx="16" fill="#E34F26" fill-opacity="0.12" stroke="#E34F26" stroke-width="1.2"/>
+      <text x="745" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#E34F26">HTML</text>
+    </g>
+  </g>
+
+  <!-- Row 2: Scrolling RIGHT (backend + tools) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="-780,0" to="0,0" dur="25s" repeatCount="indefinite"/>
+
+    <!-- Set 1 -->
+    <g transform="translate(0, 72)">
+      <rect x="0" width="82" height="32" rx="16" fill="#339933" fill-opacity="0.12" stroke="#339933" stroke-width="1.2"/>
+      <text x="41" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#339933">Node.js</text>
+
+      <rect x="97" width="82" height="32" rx="16" fill="#8b949e" fill-opacity="0.12" stroke="#8b949e" stroke-width="1.2"/>
+      <text x="138" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#8b949e">Express</text>
+
+      <rect x="194" width="82" height="32" rx="16" fill="#4479A1" fill-opacity="0.12" stroke="#4479A1" stroke-width="1.2"/>
+      <text x="235" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#4479A1">MySQL</text>
+
+      <rect x="291" width="72" height="32" rx="16" fill="#FF9900" fill-opacity="0.12" stroke="#FF9900" stroke-width="1.2"/>
+      <text x="327" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#FF9900">AWS</text>
+
+      <rect x="378" width="82" height="32" rx="16" fill="#2496ED" fill-opacity="0.12" stroke="#2496ED" stroke-width="1.2"/>
+      <text x="419" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#2496ED">Docker</text>
+
+      <rect x="475" width="64" height="32" rx="16" fill="#F05032" fill-opacity="0.12" stroke="#F05032" stroke-width="1.2"/>
+      <text x="507" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#F05032">Git</text>
+
+      <rect x="554" width="82" height="32" rx="16" fill="#8b949e" fill-opacity="0.12" stroke="#8b949e" stroke-width="1.2"/>
+      <text x="595" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#8b949e">GitHub</text>
+
+      <rect x="651" width="82" height="32" rx="16" fill="#007ACC" fill-opacity="0.12" stroke="#007ACC" stroke-width="1.2"/>
+      <text x="692" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#007ACC">VS Code</text>
+
+      <rect x="748" width="82" height="32" rx="16" fill="#F24E1E" fill-opacity="0.12" stroke="#F24E1E" stroke-width="1.2"/>
+      <text x="789" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#F24E1E">Figma</text>
+    </g>
+
+    <!-- Set 2 (duplicate) -->
+    <g transform="translate(845, 72)">
+      <rect x="0" width="82" height="32" rx="16" fill="#339933" fill-opacity="0.12" stroke="#339933" stroke-width="1.2"/>
+      <text x="41" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#339933">Node.js</text>
+
+      <rect x="97" width="82" height="32" rx="16" fill="#8b949e" fill-opacity="0.12" stroke="#8b949e" stroke-width="1.2"/>
+      <text x="138" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#8b949e">Express</text>
+
+      <rect x="194" width="82" height="32" rx="16" fill="#4479A1" fill-opacity="0.12" stroke="#4479A1" stroke-width="1.2"/>
+      <text x="235" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#4479A1">MySQL</text>
+
+      <rect x="291" width="72" height="32" rx="16" fill="#FF9900" fill-opacity="0.12" stroke="#FF9900" stroke-width="1.2"/>
+      <text x="327" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#FF9900">AWS</text>
+
+      <rect x="378" width="82" height="32" rx="16" fill="#2496ED" fill-opacity="0.12" stroke="#2496ED" stroke-width="1.2"/>
+      <text x="419" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#2496ED">Docker</text>
+
+      <rect x="475" width="64" height="32" rx="16" fill="#F05032" fill-opacity="0.12" stroke="#F05032" stroke-width="1.2"/>
+      <text x="507" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#F05032">Git</text>
+
+      <rect x="554" width="82" height="32" rx="16" fill="#8b949e" fill-opacity="0.12" stroke="#8b949e" stroke-width="1.2"/>
+      <text x="595" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#8b949e">GitHub</text>
+
+      <rect x="651" width="82" height="32" rx="16" fill="#007ACC" fill-opacity="0.12" stroke="#007ACC" stroke-width="1.2"/>
+      <text x="692" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#007ACC">VS Code</text>
+
+      <rect x="748" width="82" height="32" rx="16" fill="#F24E1E" fill-opacity="0.12" stroke="#F24E1E" stroke-width="1.2"/>
+      <text x="789" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#F24E1E">Figma</text>
+    </g>
+  </g>
+
+  <!-- Fade edges overlay -->
+  <rect width="80" height="120" fill="url(#fade-l)"/>
+  <rect x="820" width="80" height="120" fill="url(#fade-r)"/>
+</svg>

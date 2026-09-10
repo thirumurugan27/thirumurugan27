@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#0f1923"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#c084fc;#38bdf8" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#818cf8">
+        <animate attributeName="stop-color" values="#818cf8;#c084fc;#38bdf8;#818cf8" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#c084fc">
+        <animate attributeName="stop-color" values="#c084fc;#38bdf8;#818cf8;#c084fc" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-lg">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#30363d" stroke-width="0.5" opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="300" fill="url(#bg)"/>
+  <rect width="900" height="300" fill="url(#grid)"/>
+
+  <!-- Pulsing decorative circles -->
+  <circle cx="120" cy="80" r="100" fill="none" stroke="#38bdf8" stroke-width="0.5" opacity="0.08">
+    <animate attributeName="r" values="100;115;100" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="780" cy="220" r="80" fill="none" stroke="#c084fc" stroke-width="0.5" opacity="0.08">
+    <animate attributeName="r" values="80;95;80" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="150" r="160" fill="none" stroke="#818cf8" stroke-width="0.3" opacity="0.04">
+    <animate attributeName="r" values="160;175;160" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Floating code symbols -->
+  <text x="70" y="55" font-family="'Courier New', monospace" font-size="18" fill="#38bdf8" opacity="0.25">
+    &lt;/&gt;
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-15; 0,0" dur="6s" repeatCount="indefinite"/>
+  </text>
+  <text x="790" y="65" font-family="'Courier New', monospace" font-size="20" fill="#818cf8" opacity="0.2">
+    { }
+    <animateTransform attributeName="transform" type="translate" values="0,0; 5,-12; 0,0" dur="7.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="130" y="255" font-family="'Courier New', monospace" font-size="16" fill="#c084fc" opacity="0.2">
+    ( )
+    <animateTransform attributeName="transform" type="translate" values="0,0; -5,-10; 0,0" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="730" y="250" font-family="'Courier New', monospace" font-size="18" fill="#38bdf8" opacity="0.22">
+    //
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-18; 0,0" dur="5.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="830" y="145" font-family="'Courier New', monospace" font-size="22" fill="#818cf8" opacity="0.18">
+    λ
+    <animateTransform attributeName="transform" type="translate" values="0,0; 8,-8; 0,0" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <text x="35" y="165" font-family="'Courier New', monospace" font-size="16" fill="#c084fc" opacity="0.2">
+    ⚡
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,12; 0,0" dur="4.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="290" y="38" font-family="'Courier New', monospace" font-size="13" fill="#38bdf8" opacity="0.18">
+    const
+    <animateTransform attributeName="transform" type="translate" values="0,0; 3,-8; 0,0" dur="7.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="610" y="280" font-family="'Courier New', monospace" font-size="14" fill="#818cf8" opacity="0.18">
+    =&gt;
+    <animateTransform attributeName="transform" type="translate" values="0,0; -3,-14; 0,0" dur="6.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="30" font-family="'Courier New', monospace" font-size="13" fill="#c084fc" opacity="0.15">
+    async
+    <animateTransform attributeName="transform" type="translate" values="0,0; 5,-10; 0,0" dur="8.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="180" y="100" font-family="'Courier New', monospace" font-size="11" fill="#38bdf8" opacity="0.12">
+    await
+    <animateTransform attributeName="transform" type="translate" values="0,0; -4,-6; 0,0" dur="10s" repeatCount="indefinite"/>
+  </text>
+  <text x="680" y="100" font-family="'Courier New', monospace" font-size="12" fill="#c084fc" opacity="0.14">
+    npm
+    <animateTransform attributeName="transform" type="translate" values="0,0; 3,8; 0,0" dur="7s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Animated accent lines (top + bottom borders) -->
+  <line x1="0" y1="2" x2="900" y2="2" stroke="url(#neon)" stroke-width="2" opacity="0.7"/>
+  <line x1="0" y1="298" x2="900" y2="298" stroke="url(#neon)" stroke-width="2" opacity="0.7"/>
+
+  <!-- Corner bracket accents -->
+  <path d="M 0 30 L 0 0 L 30 0" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.5"/>
+  <path d="M 870 0 L 900 0 L 900 30" fill="none" stroke="#818cf8" stroke-width="2" opacity="0.5"/>
+  <path d="M 0 270 L 0 300 L 30 300" fill="none" stroke="#818cf8" stroke-width="2" opacity="0.5"/>
+  <path d="M 870 300 L 900 300 L 900 270" fill="none" stroke="#c084fc" stroke-width="2" opacity="0.5"/>
+
+  <!-- Main title with neon glow -->
+  <text x="450" y="128" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-weight="800" font-size="52" fill="url(#neon)" filter="url(#glow-lg)">
+    THIRUMURUGAN K
+  </text>
+
+  <!-- Animated underline -->
+  <line x1="220" y1="148" x2="680" y2="148" stroke="url(#neon)" stroke-width="1.5" filter="url(#glow)" stroke-dasharray="8 4">
+    <animate attributeName="stroke-dashoffset" from="0" to="-100" dur="3s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Subtitle -->
+  <text x="450" y="182" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-weight="400" font-size="17" fill="#8b949e" letter-spacing="2">
+    Full-Stack Engineer  ·  DSA Enthusiast  ·  B.Tech AIML '28
+  </text>
+
+  <!-- Status pills -->
+  <!-- Open to Work -->
+  <rect x="228" y="212" width="135" height="32" rx="16" fill="rgba(56,189,248,0.06)" stroke="#38bdf8" stroke-width="1.2">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="295" y="233" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" fill="#38bdf8" font-weight="600">🎯 Open to Work</text>
+
+  <!-- Building -->
+  <rect x="383" y="212" width="135" height="32" rx="16" fill="rgba(129,140,248,0.06)" stroke="#818cf8" stroke-width="1.2">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="450" y="233" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" fill="#818cf8" font-weight="600">💻 Building</text>
+
+  <!-- Shipping -->
+  <rect x="538" y="212" width="135" height="32" rx="16" fill="rgba(192,132,252,0.06)" stroke="#c084fc" stroke-width="1.2">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="605" y="233" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" fill="#c084fc" font-weight="600">🚀 Shipping</text>
+
+  <!-- Sparkle particles -->
+  <circle cx="200" cy="95" r="2" fill="#38bdf8" opacity="0.3">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="710" cy="115" r="1.5" fill="#c084fc" opacity="0.3">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="2.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 5,-8; 0,0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="265" r="1.5" fill="#818cf8" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; -3,-12; 0,0" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="560" cy="50" r="2" fill="#38bdf8" opacity="0.2">
+    <animate attributeName="opacity" values="0.1;0.6;0.1" dur="4s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,8; 0,0" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="200" r="1" fill="#c084fc" opacity="0.25">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 4,-6; 0,0" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="170" r="1.5" fill="#818cf8" opacity="0.2">
+    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="4.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; -2,10; 0,0" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

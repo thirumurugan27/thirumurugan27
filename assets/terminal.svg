@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 370" width="900" height="370">
+  <defs>
+    <linearGradient id="tbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="tbar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#21262d"/>
+      <stop offset="100%" stop-color="#1c2128"/>
+    </linearGradient>
+    <filter id="tglow">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    @keyframes typeIn {
+      from { opacity: 0; transform: translateX(-8px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes scanline {
+      from { transform: translateY(-370px); }
+      to { transform: translateY(370px); }
+    }
+    .line { opacity: 0; animation: typeIn 0.4s ease forwards; }
+    .l1 { animation-delay: 0.3s; }
+    .l2 { animation-delay: 0.8s; }
+    .l3 { animation-delay: 1.5s; }
+    .l4 { animation-delay: 2.0s; }
+    .l5 { animation-delay: 2.5s; }
+    .l6 { animation-delay: 3.0s; }
+    .l7 { animation-delay: 3.5s; }
+    .l8 { animation-delay: 4.0s; }
+    .l9 { animation-delay: 4.5s; }
+    .l10 { animation-delay: 5.0s; }
+    .l11 { animation-delay: 5.5s; }
+    .cursor { animation: blink 1s step-start infinite 5.8s; opacity: 0; }
+    .prompt { fill: #4ade80; }
+    .cmd { fill: #e2e8f0; }
+    .key { fill: #818cf8; }
+    .val { fill: #38bdf8; }
+    .sep { fill: #484f58; }
+    .arrow { fill: #c084fc; }
+    .mono { font-family: 'Courier New', 'Fira Code', 'Cascadia Code', monospace; }
+  </style>
+
+  <!-- Terminal window -->
+  <rect width="900" height="370" rx="12" fill="url(#tbg)" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Title bar -->
+  <rect width="900" height="38" rx="12" fill="url(#tbar)"/>
+  <rect y="26" width="900" height="12" fill="url(#tbar)"/>
+  <line x1="0" y1="38" x2="900" y2="38" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Traffic light dots -->
+  <circle cx="24" cy="19" r="6.5" fill="#ff5f57"/>
+  <circle cx="46" cy="19" r="6.5" fill="#febc2e"/>
+  <circle cx="68" cy="19" r="6.5" fill="#28c840"/>
+
+  <!-- Title text -->
+  <text x="450" y="24" text-anchor="middle" class="mono" font-size="13" fill="#8b949e">thirumurugan@dev: ~/about-me</text>
+
+  <!-- Scanline effect -->
+  <rect width="900" height="4" fill="#38bdf8" opacity="0.03">
+    <animateTransform attributeName="transform" type="translate" from="0,-4" to="0,370" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Terminal content -->
+  <g transform="translate(28, 68)">
+    <!-- Command line -->
+    <g class="line l1">
+      <text y="0" class="mono" font-size="14">
+        <tspan class="prompt">thirumurugan@dev</tspan>
+        <tspan class="sep">:</tspan>
+        <tspan fill="#38bdf8">~</tspan>
+        <tspan class="sep"> $ </tspan>
+        <tspan class="cmd">cat /dev/brain</tspan>
+      </text>
+    </g>
+
+    <!-- Blank line -->
+    <g class="line l2">
+      <text y="32" class="mono" font-size="14" class="sep" fill="#484f58">───────────────────────────────────────────────────</text>
+    </g>
+
+    <!-- Data lines -->
+    <g class="line l3">
+      <text y="60" class="mono" font-size="14">
+        <tspan class="arrow">  ►</tspan>
+        <tspan class="key"> Role       </tspan>
+        <tspan class="sep"> : </tspan>
+        <tspan class="val">Full-Stack Engineer &amp; DSA Grinder</tspan>
+      </text>
+    </g>
+
+    <g class="line l4">
+      <text y="86" class="mono" font-size="14">
+        <tspan class="arrow">  ►</tspan>
+        <tspan class="key"> Languages  </tspan>
+        <tspan class="sep"> : </tspan>
+        <tspan class="val">Java · JavaScript · Python · C++ · C</tspan>
+      </text>
+    </g>
+
+    <g class="line l5">
+      <text y="112" class="mono" font-size="14">
+        <tspan class="arrow">  ►</tspan>
+        <tspan class="key"> Stack      </tspan>
+        <tspan class="sep"> : </tspan>
+        <tspan class="val">React · Node.js · Express · MySQL</tspan>
+      </text>
+    </g>
+
+    <g class="line l6">
+      <text y="138" class="mono" font-size="14">
+        <tspan class="arrow">  ►</tspan>
+        <tspan class="key"> Cloud      </tspan>
+        <tspan class="sep"> : </tspan>
+        <tspan class="val">AWS · Docker · GitHub Actions</tspan>
+      </text>
+    </g>
+
+    <g class="line l7">
+      <text y="164" class="mono" font-size="14">
+        <tspan class="arrow">  ►</tspan>
+        <tspan class="key"> Caffeine   </tspan>
+        <tspan class="sep"> : </tspan>
+        <tspan class="val">99.8% code conversion efficiency ☕</tspan>
+      </text>
+    </g>
+
+    <g class="line l8">
+      <text y="190" class="mono" font-size="14">
+        <tspan class="arrow">  ►</tspan>
+        <tspan class="key"> Tabs Open  </tspan>
+        <tspan class="sep"> : </tspan>
+        <tspan class="val">47 (40 are StackOverflow)</tspan>
+      </text>
+    </g>
+
+    <g class="line l9">
+      <text y="216" class="mono" font-size="14">
+        <tspan class="arrow">  ►</tspan>
+        <tspan class="key"> Status     </tspan>
+        <tspan class="sep"> : </tspan>
+        <tspan class="val">Compiling new ideas 🚀</tspan>
+      </text>
+    </g>
+
+    <!-- Separator -->
+    <g class="line l10">
+      <text y="246" class="mono" font-size="14" fill="#484f58">───────────────────────────────────────────────────</text>
+    </g>
+
+    <!-- New prompt -->
+    <g class="line l11">
+      <text y="274" class="mono" font-size="14">
+        <tspan class="prompt">thirumurugan@dev</tspan>
+        <tspan class="sep">:</tspan>
+        <tspan fill="#38bdf8">~</tspan>
+        <tspan class="sep"> $ </tspan>
+      </text>
+    </g>
+
+    <!-- Blinking cursor -->
+    <rect x="198" y="261" width="9" height="18" fill="#4ade80" class="cursor"/>
+  </g>
+</svg>
