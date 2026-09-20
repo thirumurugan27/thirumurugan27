@@ -45,7 +45,6 @@ const thirumurugan = {
   code:         ["Java", "JavaScript", "Python", "C++", "C"],
   stack:        ["React", "React Native", "Node.js", "Express", "MySQL", "AWS"],
   currentQuest: "Grinding DSA & shipping high-performance full-stack apps",
-  superpower:   "Converting coffee into clean code ☕",
   philosophy:   "If it ain't broken, refactor it, then fix it properly 🛠️"
 };
 ```
@@ -57,15 +56,6 @@ I'm an AIML undergraduate passionate about building scalable, high-performance s
 - ⚡ **Fun Fact:** I'd rather stay up hunting a race condition at 2 AM than wake up to unresolved bugs
 
 <br/>
-
-<!-- ANIMATED TERMINAL (pure SMIL — renders on GitHub) -->
-<div align="center">
-  <img src="./assets/terminal.svg" width="96%" alt="Dev Terminal" />
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" />
 
 ## 🛠️ Tech Stack & Arsenal
 
