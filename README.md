@@ -1,198 +1,73 @@
 <div align="center">
 
-<!-- CUSTOM ANIMATED HEADER BANNER (pure SMIL — renders on GitHub) -->
 <img src="./assets/header-banner.svg" width="100%" alt="Thirumurugan K" />
 
 <br/>
 
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Thirumurugan+K+%F0%9F%91%8B;Full-Stack+Engineer+%7C+DSA+Enthusiast;B.Tech+AIML+%E2%80%94+Class+of+2028;Turning+caffeine+into+scalable+code+%E2%98%95;Open+to+SDE+%26+SWE+Internships+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+### Thirumurugan K
 
-<br/><br/>
+**Full-Stack Engineer · AIML Undergrad · DSA Enthusiast**
 
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/thirumurugan007/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/thirumurugan007" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="https://codeforces.com/profile/thirumurugan27" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</a>
-<a href="https://thirumurugan.site" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:thirumurugan020070@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+*B.Tech Artificial Intelligence & Machine Learning — Class of 2028*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirumurugan007/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://thirumurugan.site)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/thirumurugan007)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/thirumurugan27)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thirumurugan020070@gmail.com)
 
 </div>
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%" />
+I build scalable full-stack systems and enjoy solving hard algorithmic problems. Currently focused on deepening my expertise in distributed systems and competitive programming while pursuing my undergraduate degree.
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
-
-```javascript
-const thirumurugan = {
-  role:         "Software Engineering Student & Full-Stack Builder",
-  degree:       "B.Tech AIML — Class of 2028 🎓",
-  cgpa:         "8.66 / 10",
-  code:         ["Java", "JavaScript", "Python", "C++", "C"],
-  stack:        ["React", "React Native", "Node.js", "Express", "MySQL", "AWS"],
-  currentQuest: "Grinding DSA & shipping high-performance full-stack apps",
-  philosophy:   "If it ain't broken, refactor it, then fix it properly 🛠️"
-};
-```
-
-I'm an AIML undergraduate passionate about building scalable, high-performance systems and conquering hard algorithmic problems. From crafting reactive interfaces with **React & React Native** to designing resilient backends with **Node.js/Express** and **MySQL** — I turn complex challenges into elegant code.
-
-- 🎯 **Target:** SDE / Software Engineering roles at product-driven tech companies
-- 💬 **Ask me about:** Data Structures & Algorithms, React, Node.js, System Architecture
-- ⚡ **Fun Fact:** I'd rather stay up hunting a race condition at 2 AM than wake up to unresolved bugs
+- 🔭 &nbsp; Building with **React**, **Node.js**, **Express**, and **MySQL**
+- 🌱 &nbsp; Grinding **DSA** and exploring **system design**
+- 💼 &nbsp; Open to **SDE / Software Engineering internships**
+- 📍 &nbsp; India
 
 <br/>
 
-## 🛠️ Tech Stack & Arsenal
+## Skills
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,c" alt="Languages" />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,tailwind" alt="Stack" />
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,figma,vscode" alt="Tools" />
+
+<br/>
+<br/>
+
+## GitHub
 
 <div align="center">
 
-<!-- ANIMATED MARQUEE (pure SMIL — renders on GitHub) -->
-<img src="./assets/techstack-marquee.svg" width="100%" alt="Tech Stack Marquee" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=thirumurugan27&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide_title=false&include_all_commits=true" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thirumurugan27&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
 
 <br/><br/>
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" alt="Languages" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=thirumurugan27&hide_border=true&background=00000000&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 
-### 🌐 Frontend & Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Frontend" />
-</p>
-<sub><i>React powers both <b>Web</b> and <b>React Native</b> mobile development.</i></sub>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumurugan27&bg_color=00000000&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution+Graph" width="95%" alt="Activity Graph" />
 
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Backend" />
-</p>
+<br/><br/>
 
-### ☁️ Cloud, DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,figma" alt="Tools" />
-</p>
-
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" />
-<!-- 3D Contribution Graph — generated by GitHub Action on first run -->
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
 
-<sub><i>Isometric 3D contribution graph — auto-generated daily ✨</i></sub>
-
 </div>
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%" />
-
-## 📊 GitHub Analytics
+---
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=thirumurugan27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" alt="GitHub Stats" />
-&nbsp;
-<img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thirumurugan27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=thirumurugan27&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8&dates=8b949e" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Activity Graph — uses vercel deployment, no theme param needed for reliability -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumurugan27&bg_color=0d1117&color=38bdf8&line=818cf8&point=c084fc&area=true&area_color=1e1b4b&title_color=38bdf8&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Activity Graph" />
-
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" />
-
-## 🧩 Problem Solving & Competitive Coding
-
-<div align="center">
-
-<a href="https://leetcode.com/thirumurugan007" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/thirumurugan007?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats" width="500" />
-</a>
-
-<p><sub>⚡ Live LeetCode stats — daily streak & problem milestones</sub></p>
-
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" />
-
-## 💭 Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" />
-
-## 🎓 Education
-
-<div align="center">
-
-```
-🏛️  B.Tech in Artificial Intelligence & Machine Learning
-📅  Expected Graduation : 2028
-🎯  Academic Standing  : CGPA 8.66 / 10
-```
-
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" />
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-<p>Whether it's discussing an innovative project, an open SDE role, or just geeking out over algorithms — my inbox is always open!</p>
-
-<a href="https://www.linkedin.com/in/thirumurugan007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/thirumurugan27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://leetcode.com/thirumurugan007"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="https://codeforces.com/profile/thirumurugan27"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-<a href="https://thirumurugan.site"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:thirumurugan020070@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=484f58&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%9A%80;May+your+code+compile+on+the+first+try+%E2%9C%A8;Let's+build+something+legendary+%F0%9F%92%BB;Star+%E2%AD%90+a+repo+if+you+find+it+useful!" alt="Footer Typing" />
-</a>
-
-<br/>
-
-<img src="./assets/footer.svg" width="100%" alt="Footer" />
-
+<sub>Made with ♥ · <a href="https://thirumurugan.site">thirumurugan.site</a></sub>
 </div>
