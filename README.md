@@ -4,14 +4,6 @@
 
 <br/>
 
-### Thirumurugan K
-
-**Full-Stack Engineer · AIML Undergrad · DSA Enthusiast**
-
-*B.Tech Artificial Intelligence & Machine Learning — Class of 2028*
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirumurugan007/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://thirumurugan.site)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/thirumurugan007)
